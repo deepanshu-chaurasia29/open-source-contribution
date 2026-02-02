@@ -38,7 +38,6 @@ Follow the steps below to run the project on your system:
 ### 1️⃣ Clone the repository
 Make sure Git is installed, then run:
 
-```bash
 git clone git@github.com:deepanshu-chaurasia29/open-source-contribution.git
 
 ### 2️⃣ Navigate into the project folder
@@ -46,8 +45,9 @@ git clone git@github.com:deepanshu-chaurasia29/open-source-contribution.git
 cd open-source-contribution
 
 ### 3️⃣ Open the project
+
  This is a simple HTML/CSS/JavaScript project, so no server or build tool is required.
 
-1. Open the index.html file Double-click it OR Right-click → Open with any web browser (Chrome, Edge, Firefox).
+   Open the index.html file Double-click it OR Right-click → Open with any web browser (Chrome, Edge, Firefox).
 
 
